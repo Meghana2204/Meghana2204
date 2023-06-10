@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Meghana2204/Meghana2204/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Meghana K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Computer Science Student from Reva University</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
