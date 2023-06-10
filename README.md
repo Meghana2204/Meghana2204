@@ -1,4 +1,4 @@
-![Logo](https://github.com/Meghana2204/Meghana2204/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![Logo]([https://github.com/Meghana2204/Meghana2204/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png](https://www.canva.com/design/DAFlc0787Lo/pzElL1RxHwTIC7WFpSC5mA/edit?utm_content=DAFlc0787Lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 <h1 align="center">Hi 👋, I'm Meghana K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
