@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/Meghana2204/Meghana2204/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Meghana K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
